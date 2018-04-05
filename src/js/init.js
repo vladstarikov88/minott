@@ -1,6 +1,6 @@
 /* inputs */
-let n = document.getElementById('n').value
-let k = document.getElementById('k').value
+let n = document.getElementById('n')
+let k = document.getElementById('k')
 let s = document.getElementById('s').value
 
 /* buttons */
