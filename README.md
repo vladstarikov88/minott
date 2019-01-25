@@ -1,25 +1,22 @@
-# minott
+# Minott
 Minott scheme realization
 
 
-### Работа с проектом
-```npm i``` - установка
+### 
 
-```gulp watch``` - запуск
+```npm i```
 
-```gulp build``` - сборка
+```gulp build```
 
-### Описание
-Программа разделяет и собирает секрет между участниками.
+### Description
+The program shares and collects the secret between the participants.
 
-### Работа с приложением
-Для работы задаются параметры ```n``` и ```k```, выбирается секрет из допустимого диапозона (который может являться секретным 
-ключом, для примера)
-Формируются доли по последовательности Миньотта, по ```k``` из которых можно восстановить секрет.
+### App
+To work, the parameters ```n``` and ```k``` are set, the secret is selected from a valid range (which can be secret
+key, for example)
+Shares are formed according to the Minotta sequence, according to ```k``` from which the secret can be restored.
 
-К примеру в организации есть какой-то серкрет, который поделен на 10 частей, которые хранятся у сотрудников, 
-но восстановить этот секрет будет возможно, если три сотрудника соберутся вместе.
+For example, the organization has some kind of serkret, which is divided into 10 parts, which are kept by employees,
+but it will be possible to recover this secret if the three staff members get together.
 
-
-### Демо
-http://starikov.ml/minott/
+### Demo
