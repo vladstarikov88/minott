@@ -18,5 +18,3 @@ Shares are formed according to the Minotta sequence, according to ```k``` from w
 
 For example, the organization has some kind of serkret, which is divided into 10 parts, which are kept by employees,
 but it will be possible to recover this secret if the three staff members get together.
-
-### Demo
